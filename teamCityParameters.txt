@@ -1,0 +1,5 @@
+build_system.teamcity.build.checkoutDir
+shared_vcsroot.url
+shared_vcsroot.branch
+shared_teamcity.build.branch
+build_teamcity.pullRequest.number
